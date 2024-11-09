@@ -35,7 +35,7 @@ I'm a recent **Electronics and Communication Engineering** graduate passionate a
 - **[Automatic Fault Detection in Street Lights](https://github.com/Umaiorubagan08/Automatic-Fault-Detection-in-Street-Lights):**  
   Created a system to identify street light issues, enhancing **public safety** and **energy efficiency**.
 
-- **[Web Development Projects](https://umaiorubagan08.github.io):**  
+- **[Web Development Projects]([https://umaiorubagan08.github.io](https://umaiorubagan08.github.io/Updated_Yummy-plate/):**  
   Built responsive and accessible web pages for various projects including **Yummy Plate**, **Todo List**, **Calendar**, and **Udemy clone**.
 
 ## 📜 Certifications
