@@ -6,7 +6,8 @@
 🔗 **[LinkedIn](https://linkedin.com/in/umaiorubagan-v/)**  
 🌐 **[Portfolio](https://umaiorubagan08.github.io/My_Portfolio_Website/)**
 
-[![Umaiorubagan GitHub stats](https://github-readme-stats.vercel.app/api?username=Umaiorubagan)](https://github.com/Umaiorubagan08/github-readme-stats)
+[![Umaiorubagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umaiorubagan08&show_icons=true&theme=tokyonight
+)](https://github.com/Umaiorubagan08/github-readme-stats)
 
 
 
