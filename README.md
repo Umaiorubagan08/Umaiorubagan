@@ -35,7 +35,7 @@ I'm a recent **Electronics and Communication Engineering** graduate passionate a
 - **[Automatic Fault Detection in Street Lights](https://github.com/Umaiorubagan08/Automatic-Fault-Detection-in-Street-Lights):**  
   Created a system to identify street light issues, enhancing **public safety** and **energy efficiency**.
 
-- **[Web Development Projects]([https://umaiorubagan08.github.io](https://umaiorubagan08.github.io/Updated_Yummy-plate/):**  
+- **[Web Development Projects](https://umaiorubagan08.github.io/Updated_Yummy-plate/):**  
   Built responsive and accessible web pages for various projects including **Yummy Plate**, **Todo List**, **Calendar**, and **Udemy clone**.
 
 ## 📜 Certifications
@@ -52,7 +52,7 @@ Bachelor of Engineering in ECE | **CGPA: 8.24**
 
 
 🌱 **Currently exploring:** Software testing tools and frameworks.  
-📈 **Career goal:** To contribute to projects in **technical support** and **quality assurance** in fintech and tech industries.
+📈 **Career goal:** To contribute to projects in **Technical support** and **Web development** in fintech and tech industries.
 
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/umaiorubagan-v/) or explore my projects on [GitHub](https://github.com/Umaiorubagan08)!
